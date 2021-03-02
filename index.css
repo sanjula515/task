@@ -1,0 +1,26 @@
+.sec1 .pic1{
+    display: block;
+    margin: 0px auto;
+    margin-top: 107px;
+}
+.box{
+    width: 500px;
+    margin: 0px auto;
+    margin-top: -6px;
+    text-align: center;
+}
+#text
+{
+    width:400px;
+    
+}
+
+.l{
+    text-align: center;
+}
+#pic{
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+}
